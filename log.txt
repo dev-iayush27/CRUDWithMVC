@@ -1,0 +1,12 @@
+
+1716844595281 : ::1 : GET : /api/users
+1716844628101 : ::1 : POST : /api/user
+1716844632835 : ::1 : GET : /api/users
+1716844651289 : ::1 : DELETE : /api/user/6654e0cba66de1bc99f55d1b
+1716844654836 : ::1 : GET : /api/users
+1716844700221 : ::1 : PATCH : /api/user/6654f854d4425678b1ec8761
+1716844707515 : ::1 : GET : /api/users
+1716845021432 : ::1 : GET : /api/users
+1716845021485 : ::1 : GET : /favicon.ico
+1716845144673 : ::1 : GET : /api/users
+1716845373564 : ::1 : GET : /api/users
