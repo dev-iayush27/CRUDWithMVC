@@ -8,7 +8,7 @@ const app = express();
 // DB connection
 connectMongoDb();
 
-// Middleware - pasres bodies from request
+// Middleware - pasres only urlencoded bodies from request
 app.use(express.urlencoded({ extended: false }));
 
 // Middleware - to create log
